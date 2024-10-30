@@ -1,0 +1,431 @@
+{
+  "items": [
+    {
+      "pid": 1,
+      "title": "nihao",
+      "content": "test test test",
+      "comments": [
+        {
+          "id": 1,
+          "post_id": 1,
+          "content": "This is a great post!",
+          "writer_uni": "user101",
+          "likes": 5,
+          "replies": [
+            {
+              "id": 1,
+              "content": "I disagree with this comment.",
+              "writer_uni": "user201",
+              "likes": 2
+            },
+            {
+              "id": 2,
+              "content": "Great reply!",
+              "writer_uni": "user202",
+              "likes": 5
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "post_id": 1,
+          "content": "Interesting point of view.",
+          "writer_uni": "user104",
+          "likes": 2,
+          "replies": [
+            {
+              "id": 5,
+              "content": "Could you clarify your point?",
+              "writer_uni": "user205",
+              "likes": 1
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "post_id": 1,
+          "content": "Thanks for the insights.",
+          "writer_uni": "user108",
+          "likes": 6,
+          "replies": [
+            {
+              "id": 9,
+              "content": "Not sure if I agree.",
+              "writer_uni": "user209",
+              "likes": 1
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "post_id": 1,
+          "content": "Good explanation.",
+          "writer_uni": "user111",
+          "likes": 3,
+          "replies": [
+            {
+              "id": 12,
+              "content": "More detail would help.",
+              "writer_uni": "user212",
+              "likes": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 2,
+      "title": "hi",
+      "content": "test test test",
+      "comments": [
+        {
+          "id": 2,
+          "post_id": 2,
+          "content": "I totally agree with you!",
+          "writer_uni": "user102",
+          "likes": 3,
+          "replies": [
+            {
+              "id": 3,
+              "content": "I think you are right.",
+              "writer_uni": "user203",
+              "likes": 3
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "post_id": 2,
+          "content": "Nice article, learned a lot.",
+          "writer_uni": "user105",
+          "likes": 10,
+          "replies": [
+            {
+              "id": 6,
+              "content": "Very true!",
+              "writer_uni": "user206",
+              "likes": 8
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "post_id": 2,
+          "content": "I appreciate this!",
+          "writer_uni": "user112",
+          "likes": 8,
+          "replies": [
+            {
+              "id": 13,
+              "content": "This is spot on.",
+              "writer_uni": "user213",
+              "likes": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 4,
+      "title": "no",
+      "content": "test test test",
+      "comments": [
+        {
+          "id": 6,
+          "post_id": 4,
+          "content": "Could you explain further?",
+          "writer_uni": "user106",
+          "likes": 1,
+          "replies": [
+            {
+              "id": 7,
+              "content": "I have a different perspective.",
+              "writer_uni": "user207",
+              "likes": 0
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "post_id": 4,
+          "content": "Nice perspective.",
+          "writer_uni": "user116",
+          "likes": 4,
+          "replies": [
+            {
+              "id": 17,
+              "content": "Good insight.",
+              "writer_uni": "user217",
+              "likes": 3
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "post_id": 4,
+          "content": "Needs more sources.",
+          "writer_uni": "user124",
+          "likes": 1,
+          "replies": [
+            {
+              "id": 25,
+              "content": "Good one!",
+              "writer_uni": "user225",
+              "likes": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 5,
+      "title": "hihi",
+      "content": "test test test",
+      "comments": [
+        {
+          "id": 7,
+          "post_id": 5,
+          "content": "I found this helpful.",
+          "writer_uni": "user107",
+          "likes": 4,
+          "replies": [
+            {
+              "id": 8,
+              "content": "Nicely explained.",
+              "writer_uni": "user208",
+              "likes": 7
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "post_id": 5,
+          "content": "Useful information.",
+          "writer_uni": "user118",
+          "likes": 5,
+          "replies": [
+            {
+              "id": 19,
+              "content": "This is incorrect.",
+              "writer_uni": "user219",
+              "likes": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 6,
+      "title": "hihi",
+      "content": "test test test",
+      "comments": [
+        {
+          "id": 9,
+          "post_id": 6,
+          "content": "Not sure I agree with this.",
+          "writer_uni": "user109",
+          "likes": 0,
+          "replies": [
+            {
+              "id": 10,
+              "content": "Good clarification.",
+              "writer_uni": "user210",
+              "likes": 5
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "post_id": 6,
+          "content": "This is awesome!",
+          "writer_uni": "user119",
+          "likes": 11,
+          "replies": [
+            {
+              "id": 20,
+              "content": "I appreciate your effort.",
+              "writer_uni": "user220",
+              "likes": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 7,
+      "title": "wow",
+      "content": "this is amazing",
+      "comments": [
+        {
+          "id": 10,
+          "post_id": 7,
+          "content": "Excellent write-up.",
+          "writer_uni": "user110",
+          "likes": 15,
+          "replies": [
+            {
+              "id": 11,
+              "content": "I love this response.",
+              "writer_uni": "user211",
+              "likes": 9
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "post_id": 7,
+          "content": "Did not expect this.",
+          "writer_uni": "user120",
+          "likes": 2,
+          "replies": [
+            {
+              "id": 21,
+              "content": "Please elaborate.",
+              "writer_uni": "user221",
+              "likes": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 8,
+      "title": "Exploring Nature",
+      "content": "I went on a hike today and saw some amazing views!",
+      "comments": [
+        {
+          "id": 13,
+          "post_id": 8,
+          "content": "Confusing at parts.",
+          "writer_uni": "user113",
+          "likes": 1,
+          "replies": [
+            {
+              "id": 14,
+              "content": "Why do you think so?",
+              "writer_uni": "user214",
+              "likes": 1
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "post_id": 8,
+          "content": "Very informative.",
+          "writer_uni": "user121",
+          "likes": 6,
+          "replies": [
+            {
+              "id": 22,
+              "content": "Agree completely.",
+              "writer_uni": "user222",
+              "likes": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 9,
+      "title": "A Day in the City",
+      "content": "Visited downtown and tried some delicious street food.",
+      "comments": [
+        {
+          "id": 15,
+          "post_id": 9,
+          "content": "Could use more details.",
+          "writer_uni": "user115",
+          "likes": 2,
+          "replies": [
+            {
+              "id": 16,
+              "content": "I think otherwise.",
+              "writer_uni": "user216",
+              "likes": 0
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "post_id": 9,
+          "content": "Thanks for posting!",
+          "writer_uni": "user122",
+          "likes": 7,
+          "replies": [
+            {
+              "id": 23,
+              "content": "Needs more context.",
+              "writer_uni": "user223",
+              "likes": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 10,
+      "title": "Learning to Cook",
+      "content": "Today, I made pasta from scratch for the first time!",
+      "comments": [
+        {
+          "id": 17,
+          "post_id": 10,
+          "content": "Well-written.",
+          "writer_uni": "user117",
+          "likes": 12,
+          "replies": [
+            {
+              "id": 18,
+              "content": "Interesting thought.",
+              "writer_uni": "user218",
+              "likes": 5
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "post_id": 10,
+          "content": "A bit lengthy.",
+          "writer_uni": "user123",
+          "likes": 0,
+          "replies": [
+            {
+              "id": 24,
+              "content": "This is funny!",
+              "writer_uni": "user224",
+              "likes": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": 11,
+      "title": "Book Recommendations",
+      "content": "Just finished reading an amazing thriller. Highly recommend it!",
+      "comments": []
+    },
+    {
+      "pid": 12,
+      "title": "Morning Routine",
+      "content": "Started a new routine with yoga and meditation.",
+      "comments": []
+    },
+    {
+      "pid": 13,
+      "title": "Weekend Getaway",
+      "content": "Spent the weekend at a cozy cabin by the lake.",
+      "comments": []
+    },
+    {
+      "pid": 14,
+      "title": "Fitness Journey",
+      "content": "I hit a new personal record at the gym today!",
+      "comments": []
+    }
+  ],
+  "total": 13,
+  "page": 1,
+  "size": 50,
+  "pages": 1
+}
